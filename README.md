@@ -1,11 +1,11 @@
 ### Welcome to my GitHub! Here are some of the projects that I've been working on:
 
 
-NurseShiftProgram - This is a program that prints a menu and displays different information about the nurse's schedule based off of user input
-BinaryOperations - These two programs find if a number is a power of two both with and without the bitset library
-DoublyLinkedList - Here you'll find a doubly linked list with some basic methods for adding and subtracting nodes from it
-AddressBook - This program uses GUI elements to build a digital rolodex
-PolynomialCalculator - Here I created a calculator that can do polynomial addition, subtraction, multiplication and can even find the derivative.
+<br>NurseShiftProgram - This is a program that prints a menu and displays different information about the nurse's schedule based off of user input</br>
+<br>BinaryOperations - These two programs find if a number is a power of two both with and without the bitset library</br>
+<br>DoublyLinkedList - Here you'll find a doubly linked list with some basic methods for adding and subtracting nodes from it</br>
+<br>AddressBook - This program uses GUI elements to build a digital rolodex</br>
+<br>PolynomialCalculator - Here I created a calculator that can do polynomial addition, subtraction, multiplication and can even find the derivative.</br>
 <!--
 **evanszt/evanszt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
