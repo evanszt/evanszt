@@ -1,6 +1,6 @@
 ### Welcome to my GitHub! Here are some of the projects that I've been working on:
 
-<br>Node Traversal Graph - With a java applet, I used Dijkstra's algorithm to find the lowest cost path between two addresses (nodes) given two sets of costs</br>
+<br>Node Traversal Graph - With a java applet, I created a GPS to read in a set of addresses, turn them into nodes then used Dijkstra's algorithm to find the lowest cost path between two addresses (nodes) given two sets of costs</br>
 <br>NurseShiftProgram - This is a program that prints a menu and displays different information about the nurse's schedule based off of user input</br>
 <br>BinaryOperations - These two programs find if a number is a power of two both with and without the bitset library</br>
 <br>DoublyLinkedList - Here you'll find a doubly linked list with some basic methods for adding and subtracting nodes from it</br>
